@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sushil-09
+- 👋 Hi, I’m Sushil
 
 
 <!---
