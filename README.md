@@ -6,21 +6,7 @@
 
 I enjoy creating projects that combine Artificial Intelligence, Embedded Systems, and Software Development. My goal is to build practical technology that improves accessibility, automation, and user experience.
 
----
 
-## 🔥 Current Projects
-
-### 🤖 AI-Powered Robotic Hand
-A robotic hand that recognizes voice commands and converts them into ASL (American Sign Language).
-
-### 🖐️ Gesture Recognition Robotic Hand
-Using AI/ML to recognize hand movements and replicate them through a robotic hand.
-
-### 🎤 Offline Speech Recognition
-Building custom offline speech recognition models with improved accuracy and privacy.
-
-### 📱 Flutter Components Platform
-Developing a platform similar to ReactBits where Flutter developers can discover and use reusable UI components.
 
 ---
 ## 🛠️ Tech Stack
@@ -84,15 +70,7 @@ Developing a platform similar to ReactBits where Flutter developers can discover
 
 ---
 
-## 🏆 Achievements
 
-- 💡 Participant in Smart India Hackathon
-- 🤖 Built Voice-to-ASL Robotic Hand
-- 🖐️ Working on AI-based Gesture Controlled Robotic Hand
-- 🎤 Researching Offline Speech Recognition Systems
-- 📱 Building Flutter Developer Resources Platform
-
----
 
 ## 🌐 Connect With Me
 
